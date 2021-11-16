@@ -1,0 +1,28 @@
+body{
+    color: black;
+    font-family: Tahoma, Verdana ,Arial;
+}
+
+.titulo{
+    text-align: center;
+    width: auto;
+    margin: 0 auto;
+}
+
+a{
+    color: blue; 
+    text-decoration: none;
+}
+
+.links{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+img{
+    margin: auto;
+    display: table;
+    width: 80%;
+}
